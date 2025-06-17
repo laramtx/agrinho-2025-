@@ -6,4 +6,4 @@ um rosto com semelhança de um rosto feliz que esta andando pela cidade com seu 
 
 objetivo: analisar o rosto feliz ver oque lembra
 
-referências: alura e chatgpt
+referências: alura 
